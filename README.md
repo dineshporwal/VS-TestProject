@@ -1,5 +1,5 @@
-# VS-TestProject
-Test Visual Studio project
+# VS-TestProject-123
+## Test Visual Studio project
 <<<<<<< HEAD
 This is another test line today.
 =======
